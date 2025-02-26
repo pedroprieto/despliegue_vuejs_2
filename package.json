@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite --base=/despliegue_vuejs_2 build",
     "preview": "vite preview"
   },
   "dependencies": {
